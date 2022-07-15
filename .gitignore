@@ -1,2 +1,8 @@
 .ipynb_checkpoints
 output
+CMakeFiles
+CMakeCache.txt
+.ninja*
+build.ninja
+cmake_install.cmake
+libhagrid.so
